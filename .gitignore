@@ -1,0 +1,9 @@
+#ignore temp files
+test
+
+.idea/*
+
+.DS*
+
+#ignore files I don't have rights to
+*.pdf
